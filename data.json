@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nivel Laser Dewalt", 
+        "precio": 345000,
+        "img": "assets/nivel.laser.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Nivel Laser Bosch", 
+        "precio": 286000,
+        "img": "assets/nivel.laser.bosch.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Varilla Roscada",
+        "precio": 4600,
+        "img": "assets/varilla.roscada.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Puntales", 
+        "precio": 4000,
+        "img": "assets/puntales.png",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Andamio", 
+        "precio": 4200,
+        "img": "assets/andamio.png",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Andamio Escalera", 
+        "precio": 16900,
+        "img": "assets/andamio.escalera.png",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Aplanadora", 
+        "precio": 9500,
+        "img": "assets/aplanadora.png",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Martillo Demoledor", 
+        "precio": 12000,
+        "img": "assets/martillo.demoledor.png",
+        "cantidad": 1
+    }
+]
