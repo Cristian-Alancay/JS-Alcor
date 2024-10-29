@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Nivel Laser Dewalt", 
         "precio": 345000,
-        "img": "assets/nivel.laser.png",
+        "img": "./assets/laserdewalt.jpeg",
         "cantidad": 1
     },
     {
